@@ -1,6 +1,8 @@
 # isdebug
 
-**isdebug** is a cross-platform debugger detection package for Go.
+[![Go Reference](https://pkg.go.dev/badge/github.com/MatusOllah/isdebug.svg)](https://pkg.go.dev/github.com/MatusOllah/isdebug) [![Go Report Card](https://goreportcard.com/badge/github.com/MatusOllah/isdebug)](https://goreportcard.com/report/github.com/MatusOllah/isdebug) [![GitHub license](https://img.shields.io/github/license/MatusOllah/isdebug)](https://github.com/MatusOllah/isdebug/blob/main/LICENSE) [![Made in Slovakia](https://raw.githubusercontent.com/pedromxavier/flag-badges/refs/heads/main/badges/SK.svg)](https://www.youtube.com/watch?v=UqXJ0ktrmh0)
+
+**isdebug** is a little cross-platform debugger detection package for Go.
 
 ## Features
 
