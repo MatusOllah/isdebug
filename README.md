@@ -31,10 +31,10 @@ go get -u github.com/MatusOllah/isdebug
 package main
 
 import (
-    "github.com/MatusOllah/isdebug"
-
     "fmt"
     "os"
+
+    "github.com/MatusOllah/isdebug"
 )
 
 func main() {
